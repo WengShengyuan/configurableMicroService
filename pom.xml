@@ -17,15 +17,12 @@
 				<groupId>com.rails</groupId>
 				<artifactId>nmi-core</artifactId>
 				<type>jar</type>
+				<version>0.0.1-SNAPSHOT</version>
 				<scope>compile</scope>
 			</dependency>
 
 		</dependencies>
 	</dependencyManagement>
-
-
-
-
 
 	<modules>
 		<module>nmi-core</module>

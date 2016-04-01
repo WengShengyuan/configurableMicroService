@@ -1,7 +1,6 @@
 package com.rails.nmi.front.module.factory;
 
-import com.rails.nmi.core.adapter.CommandService;
-import com.rails.nmi.core.device.DeviceAuth;
+import com.rails.nmi.core.service.CommandService;
 
 public class CommandServiceFactory {
 	private volatile static CommandServiceFactory  instance;

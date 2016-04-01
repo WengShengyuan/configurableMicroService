@@ -1,6 +1,6 @@
 package com.rails.nmi.front.module.state;
 
-import com.rails.nmi.core.adapter.CommandService;
+import com.rails.nmi.core.service.CommandService;
 
 public class GlobalCache {
 

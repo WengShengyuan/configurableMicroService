@@ -23,19 +23,19 @@
 		</dependency>
 		
 		<!-- nmi core -->
-		<!-- <dependency>
+		<dependency>
 			<groupId>com.rails</groupId>
 			<artifactId>nmi-core</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
-		</dependency> -->
+		</dependency>
 		
-		<dependency>
+		<!-- <dependency>
 			<groupId>com.rails</groupId>
 			<artifactId>nmi-core</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 			<scope>system</scope>
 			<systemPath>${project.basedir}/lib/nmi-core.jar</systemPath>
-		</dependency>
+		</dependency> -->
 		
 		<!-- nmi core -->
 		
